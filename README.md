@@ -15,11 +15,13 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 1-1, and 
 
 Figure 1-1
 
-![Image](https://github.com/user-attachments/assets/56f22372-4763-4b1f-8771-6e221506cab1)
+![Pose1-1](https://github.com/user-attachments/assets/8a370059-32ef-40c9-893c-f6b20a622bae)
+
 
 Figure 1-2
 
-![Image](https://github.com/user-attachments/assets/8b123756-dd41-492d-adb0-5d6eb6c32a15)
+![Pose1-2](https://github.com/user-attachments/assets/f86749a9-1f4f-4cad-98a5-b754784cca1f)
+
 
 ### Pose 2: Only the thumb is extended.
 
@@ -27,7 +29,8 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 2-1.
 
 Figure 2-1
 
-![Image](https://github.com/user-attachments/assets/4bacd6df-3586-48d1-b8f5-8eb86f38df01)
+![Pose2](https://github.com/user-attachments/assets/09c944e9-1eb0-4002-a105-623026dffea2)
+
 
 ### Pose 3: The thumb and index finger are extended.
 
@@ -35,7 +38,8 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 3-1.
 
 Figure 3-1
 
-![Image](https://github.com/user-attachments/assets/bc4b4368-e1d7-42e3-9ef5-0d79421b85d1)
+![Pose3](https://github.com/user-attachments/assets/8a18e88a-38d2-4971-b241-77d9f4f35eb7)
+
 
 ### Pose 4: The thumb through the middle finger are extended.
 
@@ -43,7 +47,8 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 4-1.
 
 Figure 4-1
 
-![Image](https://github.com/user-attachments/assets/1e924ca3-b629-4eb6-884c-c7545e2b6ae2)
+![Pose4](https://github.com/user-attachments/assets/b694fdd4-b887-4a57-b34b-abd8c8057ac7)
+
 
 ### Pose 5: The thumb through the ring finger, or all fingers, are extended.
 
@@ -51,11 +56,13 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 5-1, and 
 
 Figure 5-1
 
-![Image](https://github.com/user-attachments/assets/0715a37f-0df3-4926-861d-fb3b4e05d898)
+![Pose5-1](https://github.com/user-attachments/assets/2f1d05c8-d5db-4f7f-ac89-7bda848f4d1b)
+
 
 Figure 5-2
 
-![Image](https://github.com/user-attachments/assets/23bccc16-9b36-4a1f-9ba7-9a888edf4f1d)
+![Pose5-2](https://github.com/user-attachments/assets/42b2b877-2331-4981-9f06-774791e88e7e)
+
 
 ### Other: Hand poses that do not belong to Pose 1 through Pose 5.
 
@@ -64,7 +71,8 @@ It consists of 14 hand poses, including poses inspired by Japanese fingerspellin
 
 Figure 6-1
 
-![Image](https://github.com/user-attachments/assets/1095a313-ef3e-4ba0-8b76-116b6c1df731)
+![otherPose](https://github.com/user-attachments/assets/3249d0c8-3fb0-4efe-a128-1dac63e2850d)
+
 
 ## Pre-trained Models
 
