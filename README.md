@@ -1,7 +1,7 @@
 # Hand Pose Estimation Model and Dataset for Text Input Systems
 This repository provides a dataset and pre-trained model for classifying hand poses based on the coordinates of the fingertips of the left hand, obtained from a hand tracker in an XR environment.
 
-## DatasetR
+## Dataset
 
 This dataset is intended for research on hand pose estimation. It consists of six CSV files containing 3D coordinates of each fingertip of the left hand, captured while performing different hand poses. These poses are categorized into six classes: Pose 1 to Pose 5, and Other.
 
