@@ -9,27 +9,27 @@ This dataset is intended for research on hand pose estimation. It consists of si
 
 The hand shape represented by each class, along with the specific hand poses and the number of data samples included, are as follows:
 
-###Pose 1: All fingers are bent.
+### Pose 1: All fingers are bent.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 1-1, and 1,000 samples of the pose shown in Figure 1-2.
 
-###Pose 2: Only the thumb is extended.
+### Pose 2: Only the thumb is extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 2-1.
 
-###Pose 3: The thumb and index finger are extended.
+### Pose 3: The thumb and index finger are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 3-1.
 
-###Pose 4: The thumb through the middle finger are extended.
+### Pose 4: The thumb through the middle finger are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 4-1.
 
-###Pose 5: The thumb through the ring finger, or all fingers, are extended.
+### Pose 5: The thumb through the ring finger, or all fingers, are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 5-1, and 1,000 samples of the pose shown in Figure 5-2.
 
-###Other: Hand poses that do not belong to Pose 1 through Pose 5.
+### Other: Hand poses that do not belong to Pose 1 through Pose 5.
 
 The dataset includes 1,000 samples for each of the poses shown in Figure 6-1.
 
