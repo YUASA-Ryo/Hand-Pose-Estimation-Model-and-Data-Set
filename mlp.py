@@ -10,8 +10,8 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.callbacks import EarlyStopping
 
 
-filepath = os.path.dirname(os.path.abspath(__file__))+"/MLData/"
-label_names = ["A_data", "I_data", "U_data", "E_data", "O_data", "Other_data"]
+filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), "MLData") + "\\"
+label_names = ["Pose1_data", "Pose2_data", "Pose3_data", "Pose4_data", "Pose5_data", "Other_data"]
 input_Dim = 15
 num_Classes = len(label_names)
 

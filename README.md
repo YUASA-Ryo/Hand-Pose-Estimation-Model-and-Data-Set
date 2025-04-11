@@ -35,4 +35,6 @@ The dataset includes 1,000 samples for each of the poses shown in Figure 6-1.
 
 ## Pre-trained Models
 
+The ONNX-format pre-trained model provided in this repository performs 6-class classification based on the 3D coordinates of each fingertip of the left hand. Since the model was built using standardized data, preprocessing with the mean and standard deviation is required when performing inference.
 
+A python program for classifying test data using the trained model can be found [here](#).
