@@ -13,26 +13,58 @@ The hand shape represented by each class, along with the specific hand poses and
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 1-1, and 1,000 samples of the pose shown in Figure 1-2.
 
+Figure 1-1
+
+![Image](https://github.com/user-attachments/assets/56f22372-4763-4b1f-8771-6e221506cab1)
+
+Figure 1-2
+
+![Image](https://github.com/user-attachments/assets/8b123756-dd41-492d-adb0-5d6eb6c32a15)
+
 ### Pose 2: Only the thumb is extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 2-1.
+
+Figure 2-1
+
+![Image](https://github.com/user-attachments/assets/4bacd6df-3586-48d1-b8f5-8eb86f38df01)
 
 ### Pose 3: The thumb and index finger are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 3-1.
 
+Figure 3-1
+
+![Image](https://github.com/user-attachments/assets/bc4b4368-e1d7-42e3-9ef5-0d79421b85d1)
+
 ### Pose 4: The thumb through the middle finger are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 4-1.
+
+Figure 4-1
+
+![Image](https://github.com/user-attachments/assets/1e924ca3-b629-4eb6-884c-c7545e2b6ae2)
 
 ### Pose 5: The thumb through the ring finger, or all fingers, are extended.
 
 The dataset consists of 5,000 samples of the hand pose shown in Figure 5-1, and 1,000 samples of the pose shown in Figure 5-2.
 
+Figure 5-1
+
+![Image](https://github.com/user-attachments/assets/0715a37f-0df3-4926-861d-fb3b4e05d898)
+
+Figure 5-2
+
+![Image](https://github.com/user-attachments/assets/23bccc16-9b36-4a1f-9ba7-9a888edf4f1d)
+
 ### Other: Hand poses that do not belong to Pose 1 through Pose 5.
 
 The dataset includes 1,000 samples for each of the poses shown in Figure 6-1.
 It consists of 14 hand poses, including poses inspired by Japanese fingerspelling and naturally relaxed hand shapes.
+
+Figure 6-1
+
+![Image](https://github.com/user-attachments/assets/1095a313-ef3e-4ba0-8b76-116b6c1df731)
 
 ## Pre-trained Models
 
