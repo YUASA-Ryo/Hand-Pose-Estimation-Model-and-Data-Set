@@ -32,6 +32,7 @@ The dataset consists of 5,000 samples of the hand pose shown in Figure 5-1, and 
 ### Other: Hand poses that do not belong to Pose 1 through Pose 5.
 
 The dataset includes 1,000 samples for each of the poses shown in Figure 6-1.
+It consists of 14 hand poses, including poses inspired by Japanese fingerspelling and naturally relaxed hand shapes.
 
 ## Pre-trained Models
 
